@@ -1,0 +1,42 @@
+09:59:42.307 [TestNG-tests-2] INFO  testcase.TC_007_VerifyVersionHistoryButton - ***** Ending TC_006_VerifyIndiaHolidayCalendarsDocTitle *****
+09:59:42.380 [TestNG-tests-2] INFO  testcase.TC_007_VerifyVersionHistoryButton - ***** Starting TC_007_VerifyVersionHistoryButton *****
+09:59:43.051 [TestNG-tests-2] INFO  testcase.TC_007_VerifyVersionHistoryButton - Clicked on Download Button
+09:59:48.834 [TestNG-tests-2] INFO  testcase.TC_007_VerifyVersionHistoryButton - Clicked on Options ... Button
+09:59:48.834 [TestNG-tests-2] INFO  testcase.TC_007_VerifyVersionHistoryButton - Verfying Display of Option Version History...
+09:59:49.187 [TestNG-tests-2] INFO  testcase.TC_007_VerifyVersionHistoryButton - Option Verified...
+09:59:49.661 [TestNG-tests-2] INFO  testcase.TC_007_VerifyVersionHistoryButton - Clicked on Version History Button
+09:59:54.006 [TestNG-tests-2] INFO  testcase.TC_007_VerifyVersionHistoryButton - Version History Details printed in Console
+09:59:54.007 [TestNG-tests-2] DEBUG testcase.TC_007_VerifyVersionHistoryButton - application logs end........
+09:59:54.007 [TestNG-tests-2] INFO  testcase.TC_007_VerifyVersionHistoryButton - ***** Ending TC_007_VerifyVersionHistoryButton *****
+09:59:56.119 [TestNG-tests-1] INFO  testcase.TC_007_VerifyVersionHistoryButton - Clicked On Select All Radio button
+09:59:56.119 [TestNG-tests-1] INFO  testcase.TC_007_VerifyVersionHistoryButton - Validating Count Of Selected Documents...
+09:59:56.347 [TestNG-tests-1] INFO  testcase.TC_007_VerifyVersionHistoryButton - Count verified...
+09:59:56.347 [TestNG-tests-1] INFO  testcase.TC_007_VerifyVersionHistoryButton - ***** Ending TC_004_VerifyCountsSelected *****
+09:59:56.354 [TestNG-tests-1] INFO  testcase.TC_007_VerifyVersionHistoryButton - ***** Starting TC_005_ValidateDocumentsDownloadable *****
+09:59:56.788 [TestNG-tests-1] INFO  testcase.TC_007_VerifyVersionHistoryButton - ***** Ending TC_005_ValidateDocumentsDownloadable *****
+09:59:56.794 [TestNG-tests-1] INFO  testcase.TC_007_VerifyVersionHistoryButton - ***** Starting TC_006_VerifyIndiaHolidayCalendarsDocTitle *****
+09:59:57.154 [TestNG-tests-1] INFO  testcase.TC_007_VerifyVersionHistoryButton - Clicked on Download Button
+09:59:57.583 [TestNG-tests-1] INFO  testcase.TC_007_VerifyVersionHistoryButton - Clicked on De-Select
+09:59:57.943 [TestNG-tests-1] INFO  testcase.TC_007_VerifyVersionHistoryButton - Hovered On India Calendar 2024 Document
+09:59:58.478 [TestNG-tests-1] INFO  testcase.TC_007_VerifyVersionHistoryButton - Clicked On India Calendar 2024 Document
+09:59:58.478 [TestNG-tests-1] INFO  testcase.TC_007_VerifyVersionHistoryButton - Validating India Calendar Document Title...
+10:00:02.508 [TestNG-tests-1] INFO  testcase.TC_007_VerifyVersionHistoryButton - India Calendar Document Title verified...
+10:00:02.508 [TestNG-tests-1] INFO  testcase.TC_007_VerifyVersionHistoryButton - ***** Ending TC_006_VerifyIndiaHolidayCalendarsDocTitle *****
+10:00:02.514 [TestNG-tests-1] INFO  testcase.TC_007_VerifyVersionHistoryButton - ***** Starting TC_007_VerifyVersionHistoryButton *****
+10:00:03.041 [TestNG-tests-1] INFO  testcase.TC_007_VerifyVersionHistoryButton - Clicked on Download Button
+10:00:08.205 [TestNG-tests-1] INFO  testcase.TC_007_VerifyVersionHistoryButton - Clicked on Options ... Button
+10:00:08.209 [TestNG-tests-1] INFO  testcase.TC_007_VerifyVersionHistoryButton - Verfying Display of Option Version History...
+10:00:08.368 [TestNG-tests-1] INFO  testcase.TC_007_VerifyVersionHistoryButton - Option Verified...
+10:00:08.954 [TestNG-tests-1] INFO  testcase.TC_007_VerifyVersionHistoryButton - Clicked on Version History Button
+10:00:13.253 [TestNG-tests-1] INFO  testcase.TC_007_VerifyVersionHistoryButton - Version History Details printed in Console
+10:00:13.253 [TestNG-tests-1] DEBUG testcase.TC_007_VerifyVersionHistoryButton - application logs end........
+10:00:13.254 [TestNG-tests-1] INFO  testcase.TC_007_VerifyVersionHistoryButton - ***** Ending TC_007_VerifyVersionHistoryButton *****
+10:58:26.529 [main] INFO  testcase.TC_007_VerifyVersionHistoryButton - ***** Starting TC_001_VerifyHolidayScheduleTitle *****
+10:58:26.611 [main] DEBUG testcase.TC_007_VerifyVersionHistoryButton - application logs started........
+10:58:55.720 [main] INFO  testcase.TC_007_VerifyVersionHistoryButton - Clicked on User Symbol Button
+10:58:56.592 [main] INFO  testcase.TC_007_VerifyVersionHistoryButton - Captured User Name
+10:58:56.649 [main] INFO  testcase.TC_007_VerifyVersionHistoryButton - Captured User Email Id
+10:58:56.858 [main] INFO  testcase.TC_007_VerifyVersionHistoryButton - Clicked on User Symbol Button Again
+10:58:56.921 [main] INFO  testcase.TC_007_VerifyVersionHistoryButton - Scrolled Till WebElement Holiday Calendar
+10:58:57.127 [main] INFO  testcase.TC_007_VerifyVersionHistoryButton - Clicked On Holiday Calendar Element
+10:59:01.881 [main] INFO  testcase.TC_007_VerifyVersionHistoryButton - Captured Holiday Calendar Page Information Displaying

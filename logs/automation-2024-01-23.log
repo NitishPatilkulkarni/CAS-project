@@ -1,0 +1,45 @@
+15:20:31.015 [main] INFO  testcase.TC_007_VerifyVersionHistoryButton - ***** Ending TC_007_VerifyVersionHistoryButton *****
+21:30:06.026 [main] INFO  testcase.TC_007_VerifyVersionHistoryButton - ***** Starting TC_001_VerifyHolidayScheduleTitle *****
+21:30:06.177 [main] DEBUG testcase.TC_007_VerifyVersionHistoryButton - application logs started........
+21:30:06.453 [main] INFO  testcase.TC_007_VerifyVersionHistoryButton - Clicked on User Symbol Button
+21:30:07.942 [main] INFO  testcase.TC_007_VerifyVersionHistoryButton - Captured User Name
+21:30:08.136 [main] INFO  testcase.TC_007_VerifyVersionHistoryButton - Captured User Email Id
+21:30:08.280 [main] INFO  testcase.TC_007_VerifyVersionHistoryButton - Clicked on User Symbol Button Again
+21:30:08.348 [main] INFO  testcase.TC_007_VerifyVersionHistoryButton - Scrolled Till WebElement Holiday Calendar
+21:30:08.595 [main] INFO  testcase.TC_007_VerifyVersionHistoryButton - Clicked On Holiday Calendar Element
+21:30:14.660 [main] INFO  testcase.TC_007_VerifyVersionHistoryButton - Captured Holiday Calendar Page Information Displaying
+21:30:14.661 [main] INFO  testcase.TC_007_VerifyVersionHistoryButton - Validating Holiday Schedules Title...
+21:30:14.825 [main] INFO  testcase.TC_007_VerifyVersionHistoryButton - Holiday Schedules Title verified...
+21:30:14.849 [main] INFO  testcase.TC_007_VerifyVersionHistoryButton - ***** Ending TC_001_VerifyHolidayScheduleTitle *****
+21:30:14.988 [main] INFO  testcase.TC_007_VerifyVersionHistoryButton - ***** Starting TC_002_VerifyNavigationOfHolidaySchedulePage *****
+21:30:15.448 [main] INFO  testcase.TC_007_VerifyVersionHistoryButton - Clicked On People Button
+21:30:15.854 [main] INFO  testcase.TC_007_VerifyVersionHistoryButton - Hovered On Rewards_life_work option
+21:30:16.283 [main] INFO  testcase.TC_007_VerifyVersionHistoryButton - Clicked On Holiday Schedules Option
+21:30:16.338 [main] INFO  testcase.TC_007_VerifyVersionHistoryButton - Validating URL of Holiday Schedules Page...
+21:30:16.339 [main] INFO  testcase.TC_007_VerifyVersionHistoryButton - Holiday Schedules Page URL verified...
+21:30:16.339 [main] INFO  testcase.TC_007_VerifyVersionHistoryButton - ***** Ending TC_002_VerifyNavigationOfHolidaySchedulePage *****
+21:30:16.352 [main] INFO  testcase.TC_007_VerifyVersionHistoryButton - ***** Starting TC_003_VerifyHolidayCalendars2024Text *****
+21:30:16.353 [main] INFO  testcase.TC_007_VerifyVersionHistoryButton - Validating Holiday Calendars - 2024 Text...
+21:30:19.859 [main] ERROR testcase.TC_007_VerifyVersionHistoryButton - Invalid Text...
+21:30:19.862 [main] INFO  testcase.TC_007_VerifyVersionHistoryButton - ***** Ending TC_003_VerifyHolidayCalendars2024Text *****
+21:30:19.874 [main] INFO  testcase.TC_007_VerifyVersionHistoryButton - ***** Starting TC_004_VerifyCountsSelected *****
+21:30:20.146 [main] INFO  testcase.TC_007_VerifyVersionHistoryButton - Hovered On India America UK Calendar Area
+21:30:20.560 [main] INFO  testcase.TC_007_VerifyVersionHistoryButton - Clicked On India_America_UK_Calendar
+21:30:30.012 [main] INFO  testcase.TC_007_VerifyVersionHistoryButton - Clicked On Select All Radio button
+21:30:30.013 [main] INFO  testcase.TC_007_VerifyVersionHistoryButton - Validating Count Of Selected Documents...
+21:30:30.910 [main] INFO  testcase.TC_007_VerifyVersionHistoryButton - Count verified...
+21:30:30.910 [main] INFO  testcase.TC_007_VerifyVersionHistoryButton - ***** Ending TC_004_VerifyCountsSelected *****
+21:30:30.923 [main] INFO  testcase.TC_007_VerifyVersionHistoryButton - ***** Starting TC_005_ValidateDocumentsDownloadable *****
+21:30:31.222 [main] INFO  testcase.TC_007_VerifyVersionHistoryButton - ***** Ending TC_005_ValidateDocumentsDownloadable *****
+21:30:31.234 [main] INFO  testcase.TC_007_VerifyVersionHistoryButton - ***** Starting TC_006_VerifyIndiaHolidayCalendarsDocTitle *****
+21:30:31.579 [main] INFO  testcase.TC_007_VerifyVersionHistoryButton - Clicked on Download Button
+21:30:31.918 [main] INFO  testcase.TC_007_VerifyVersionHistoryButton - Clicked on De-Select
+21:30:32.240 [main] INFO  testcase.TC_007_VerifyVersionHistoryButton - Hovered On India Calendar 2024 Document
+21:30:32.507 [main] INFO  testcase.TC_007_VerifyVersionHistoryButton - Clicked On India Calendar 2024 Document
+21:30:32.508 [main] INFO  testcase.TC_007_VerifyVersionHistoryButton - Validating India Calendar Document Title...
+21:30:35.605 [main] INFO  testcase.TC_007_VerifyVersionHistoryButton - India Calendar Document Title verified...
+21:30:35.605 [main] INFO  testcase.TC_007_VerifyVersionHistoryButton - ***** Ending TC_006_VerifyIndiaHolidayCalendarsDocTitle *****
+21:30:35.621 [main] INFO  testcase.TC_007_VerifyVersionHistoryButton - ***** Starting TC_007_VerifyVersionHistoryButton *****
+21:30:35.933 [main] INFO  testcase.TC_007_VerifyVersionHistoryButton - Clicked on Download Button
+21:30:41.180 [main] INFO  testcase.TC_007_VerifyVersionHistoryButton - Clicked on Options ... Button
+21:30:41.181 [main] INFO  testcase.TC_007_VerifyVersionHistoryButton - Verfying Display of Option Version History...

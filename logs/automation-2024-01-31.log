@@ -1,0 +1,45 @@
+10:35:33.119 [main] INFO  testcase.TC_007_VerifyVersionHistoryButton - Clicked on User Symbol Button Again
+10:35:33.229 [main] INFO  testcase.TC_007_VerifyVersionHistoryButton - Scrolled Till WebElement Holiday Calendar
+10:35:33.525 [main] INFO  testcase.TC_007_VerifyVersionHistoryButton - Clicked On Holiday Calendar Element
+10:35:38.010 [main] INFO  testcase.TC_007_VerifyVersionHistoryButton - Captured Holiday Calendar Page Information Displaying
+10:35:38.011 [main] INFO  testcase.TC_007_VerifyVersionHistoryButton - Validating Holiday Schedules Title...
+10:35:38.101 [main] INFO  testcase.TC_007_VerifyVersionHistoryButton - Holiday Schedules Title verified...
+10:35:38.116 [main] INFO  testcase.TC_007_VerifyVersionHistoryButton - ***** Ending TC_001_VerifyHolidayScheduleTitle *****
+10:35:38.217 [main] INFO  testcase.TC_007_VerifyVersionHistoryButton - ***** Starting TC_002_VerifyNavigationOfHolidaySchedulePage *****
+10:35:38.543 [main] INFO  testcase.TC_007_VerifyVersionHistoryButton - Clicked On People Button
+10:35:38.860 [main] INFO  testcase.TC_007_VerifyVersionHistoryButton - Hovered On Rewards_life_work option
+10:36:28.052 [main] INFO  testcase.TC_007_VerifyVersionHistoryButton - ***** Starting TC_001_VerifyHolidayScheduleTitle *****
+10:36:28.147 [main] DEBUG testcase.TC_007_VerifyVersionHistoryButton - application logs started........
+10:36:36.785 [main] INFO  testcase.TC_007_VerifyVersionHistoryButton - Clicked on User Symbol Button
+10:36:37.691 [main] INFO  testcase.TC_007_VerifyVersionHistoryButton - Captured User Name
+10:36:37.760 [main] INFO  testcase.TC_007_VerifyVersionHistoryButton - Captured User Email Id
+10:36:38.038 [main] INFO  testcase.TC_007_VerifyVersionHistoryButton - Clicked on User Symbol Button Again
+10:36:38.139 [main] INFO  testcase.TC_007_VerifyVersionHistoryButton - Scrolled Till WebElement Holiday Calendar
+10:36:38.513 [main] INFO  testcase.TC_007_VerifyVersionHistoryButton - Clicked On Holiday Calendar Element
+10:36:43.432 [main] INFO  testcase.TC_007_VerifyVersionHistoryButton - Captured Holiday Calendar Page Information Displaying
+10:36:43.433 [main] INFO  testcase.TC_007_VerifyVersionHistoryButton - Validating Holiday Schedules Title...
+10:36:43.503 [main] INFO  testcase.TC_007_VerifyVersionHistoryButton - Holiday Schedules Title verified...
+10:36:43.517 [main] INFO  testcase.TC_007_VerifyVersionHistoryButton - ***** Ending TC_001_VerifyHolidayScheduleTitle *****
+10:36:43.582 [main] INFO  testcase.TC_007_VerifyVersionHistoryButton - ***** Starting TC_002_VerifyNavigationOfHolidaySchedulePage *****
+10:36:43.918 [main] INFO  testcase.TC_007_VerifyVersionHistoryButton - Clicked On People Button
+10:36:44.222 [main] INFO  testcase.TC_007_VerifyVersionHistoryButton - Hovered On Rewards_life_work option
+10:36:44.551 [main] INFO  testcase.TC_007_VerifyVersionHistoryButton - Clicked On Holiday Schedules Option
+10:36:44.588 [main] INFO  testcase.TC_007_VerifyVersionHistoryButton - Validating URL of Holiday Schedules Page...
+10:36:44.589 [main] INFO  testcase.TC_007_VerifyVersionHistoryButton - Holiday Schedules Page URL verified...
+10:36:44.589 [main] INFO  testcase.TC_007_VerifyVersionHistoryButton - ***** Ending TC_002_VerifyNavigationOfHolidaySchedulePage *****
+10:36:44.598 [main] INFO  testcase.TC_007_VerifyVersionHistoryButton - ***** Starting TC_003_VerifyHolidayCalendars2024Text *****
+10:36:44.599 [main] INFO  testcase.TC_007_VerifyVersionHistoryButton - Validating Holiday Calendars - 2024 Text...
+10:38:37.910 [main] INFO  testcase.TC_007_VerifyVersionHistoryButton - ***** Starting TC_001_VerifyHolidayScheduleTitle *****
+10:38:37.993 [main] DEBUG testcase.TC_007_VerifyVersionHistoryButton - application logs started........
+10:38:38.266 [main] INFO  testcase.TC_007_VerifyVersionHistoryButton - Clicked on User Symbol Button
+10:38:39.055 [main] INFO  testcase.TC_007_VerifyVersionHistoryButton - Captured User Name
+10:38:39.117 [main] INFO  testcase.TC_007_VerifyVersionHistoryButton - Captured User Email Id
+10:38:39.252 [main] INFO  testcase.TC_007_VerifyVersionHistoryButton - Clicked on User Symbol Button Again
+10:38:39.318 [main] INFO  testcase.TC_007_VerifyVersionHistoryButton - Scrolled Till WebElement Holiday Calendar
+10:38:39.554 [main] INFO  testcase.TC_007_VerifyVersionHistoryButton - Clicked On Holiday Calendar Element
+10:38:44.479 [main] INFO  testcase.TC_007_VerifyVersionHistoryButton - Captured Holiday Calendar Page Information Displaying
+10:38:44.480 [main] INFO  testcase.TC_007_VerifyVersionHistoryButton - Validating Holiday Schedules Title...
+10:38:44.552 [main] INFO  testcase.TC_007_VerifyVersionHistoryButton - Holiday Schedules Title verified...
+10:38:44.564 [main] INFO  testcase.TC_007_VerifyVersionHistoryButton - ***** Ending TC_001_VerifyHolidayScheduleTitle *****
+10:38:44.615 [main] INFO  testcase.TC_007_VerifyVersionHistoryButton - ***** Starting TC_002_VerifyNavigationOfHolidaySchedulePage *****
+10:38:44.849 [main] INFO  testcase.TC_007_VerifyVersionHistoryButton - Clicked On People Button
